@@ -15,7 +15,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <docker.image.prefix>springio</docker.image.prefix>
+        <docker.image.prefix>master:5000</docker.image.prefix>
         <app.version>1.1</app.version>
     </properties>
 
